@@ -2,7 +2,7 @@
 Overview
 The Campus Expansion Planner is a user-friendly desktop application built with Python's Tkinter library that helps university administrators and facility planners manage building expansion projects efficiently. This application provides an intuitive interface for tracking building specifications, costs, and generating reports for campus development planning.
 
-Key Features
+**Key Features**
 Building Management
 Add New Buildings with comprehensive details including:
 
